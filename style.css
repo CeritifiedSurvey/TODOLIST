@@ -154,3 +154,20 @@ main {
 .task .actions .delete {
 	color: crimson;
 }
+
+#contact { 
+    color: white;
+}
+
+#contact svg.svg-inline--fa {
+    font-size: 1.7rem;
+    margin: auto;
+    color: var(--darker);
+    margin: 2px;
+
+}
+
+#contact svg.svg-inline--fa:hover {
+    color: var(--pink)!important;
+    font-size: 1.7rem;
+}
